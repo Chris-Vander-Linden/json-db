@@ -2,24 +2,52 @@
   "test": [
     {
       "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
+      "name": "Sebastian",
       "icon": "fa-user-secret",
+      "job": "Spy",
       "email": "sebastian@codingthesmartway.com"
     },
     {
       "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
+      "name": "Steve",
       "icon": "fa-user-graduate",
+      "job": "Student",
       "email": "steve@codingthesmartway.com"
     },
     {
       "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "icon": "fa-user-secret",
+      "name": "Ann",
+      "icon": "fa-user-injured",
+      "job": "Sick Person",
       "email": "ann@codingthesmartway.com"
+    },
+    {
+      "id": 4,
+      "name": "Chris",
+      "icon": "fa-person-rifle",
+      "job": "Hunter",
+      "email": "chris@codingthesmartway.com"
+    },
+    {
+      "id": 5,
+      "name": "Matt",
+      "icon": "fa-person-harassing",
+      "job": "Bully",
+      "email": "matt@codingthesmartway.com"
+    },
+    {
+      "id": 6,
+      "name": "Ava",
+      "icon": "fa-person-drowning",
+      "job": "Bad Swimmer",
+      "email": "ava@codingthesmartway.com"
+    },
+    {
+      "id": 7,
+      "name": "Peter",
+      "icon": "fa-person-military-rifle",
+      "job": "Army Man",
+      "email": "peter@codingthesmartway.com"
     }
   ]
 }
