@@ -5,49 +5,49 @@
       "name": "Sebastian",
       "icon": "fa-user-secret",
       "job": "Spy",
-      "email": "sebastian@codingthesmartway.com"
+      "email": "sebastian@somewebsite.com"
     },
     {
       "id": 2,
       "name": "Steve",
       "icon": "fa-user-graduate",
       "job": "Student",
-      "email": "steve@codingthesmartway.com"
+      "email": "steve@somewebsite.com"
     },
     {
       "id": 3,
       "name": "Ann",
       "icon": "fa-user-injured",
       "job": "Sick Person",
-      "email": "ann@codingthesmartway.com"
+      "email": "ann@somewebsite.com"
     },
     {
       "id": 4,
       "name": "Chris",
       "icon": "fa-person-rifle",
       "job": "Hunter",
-      "email": "chris@codingthesmartway.com"
+      "email": "chris@somewebsite.com"
     },
     {
       "id": 5,
       "name": "Matt",
       "icon": "fa-person-harassing",
       "job": "Bully",
-      "email": "matt@codingthesmartway.com"
+      "email": "matt@somewebsite.com"
     },
     {
       "id": 6,
       "name": "Ava",
       "icon": "fa-person-drowning",
       "job": "Bad Swimmer",
-      "email": "ava@codingthesmartway.com"
+      "email": "ava@somewebsite.com"
     },
     {
       "id": 7,
       "name": "Peter",
       "icon": "fa-person-military-rifle",
       "job": "Army Man",
-      "email": "peter@codingthesmartway.com"
+      "email": "peter@somewebsite.com"
     }
   ]
 }
