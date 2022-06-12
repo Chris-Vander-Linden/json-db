@@ -48,6 +48,55 @@
       "icon": "fa-person-military-rifle",
       "job": "Army Man",
       "email": "peter@somewebsite.com"
+    },
+    {
+      "id": 8,
+      "name": "George S.",
+      "icon": "fa-person-digging",
+      "job": "Road Worker",
+      "email": "george@somewebsite.com"
+    },
+    {
+      "id": 9,
+      "name": "Brad E.",
+      "icon": "fa-person-burst",
+      "job": "Bomb Maker",
+      "email": "brad@somewebsite.com"
+    },
+    {
+      "id": 10,
+      "name": "Trent R.",
+      "icon": "fa-person-praying",
+      "job": "Cult Leader",
+      "email": "trent@somewebsite.com"
+    },
+    {
+      "id": 11,
+      "name": "Jill T.",
+      "icon": "fa-person-pregnant",
+      "job": "Soon-to-be-mommy",
+      "email": "jill@somewebsite.com"
+    },
+    {
+      "id": 12,
+      "name": "Zack S.",
+      "icon": "fa-person-skatingg",
+      "job": "Ice Skater",
+      "email": "zack@somewebsite.com"
+    },
+    {
+      "id": 13,
+      "name": "Paul S.",
+      "icon": "fa-poo",
+      "job": "N/A",
+      "email": "paul@somewebsite.com"
+    },
+    {
+      "id": 14,
+      "name": "Molly B.",
+      "icon": "fa-user-astronaut",
+      "job": "Tesla Astronaut",
+      "email": "molly@somewebsite.com"
     }
   ]
 }
