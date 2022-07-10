@@ -80,7 +80,7 @@
     {
       "id": 12,
       "name": "Zack S.",
-      "icon": "fa-person-skatingg",
+      "icon": "fa-person-skating",
       "job": "Ice Skater",
       "email": "zack@somewebsite.com"
     },
@@ -109,7 +109,7 @@
       "id": 16,
       "name": "Michael J.",
       "icon": "fa-user-ninja",
-      "job": "Ninga",
+      "job": "Ninja",
       "email": "michael@somewebsite.com"
     },
     {
